@@ -1,0 +1,29 @@
+package juku;
+import java.util.Scanner;
+public class A {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scan=new Scanner(System.in);
+		String S=scan.nextLine();
+		switch(S) {
+	   case "Sunny":
+		case "sunny":
+		
+			System.out.println("Cloudy");
+			
+	        break;
+		case "Cloudy":
+		case "cloudy":
+			System.out.println("Rainy");
+			
+		    break;
+		case "Rainy":
+		case "rainy":
+			System.out.println("Sunny");
+			
+		    break;
+	        }
+        }
+	}
+

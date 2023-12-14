@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;AvailableStockComparator.java&apos; to &apos;clw2&apos;&#x0D;&#x0A;- Original project: &apos;Assignmnt&apos;&#x0D;&#x0A;- Destination element: &apos;clw2&apos;&#x0D;&#x0A;- Original element: &apos;Assignmnt1.AvailableStockComparator.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=clw2" element1="/src&lt;Assignmnt1{AvailableStockComparator.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1591164004497" units="1" version="1.0"/>
+</session>
